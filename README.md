@@ -27,6 +27,6 @@
 <br>
 
 <h3> Cool Websites:</h3>
-<a href="https://gamercreator1.tk" target="blank"><img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=offline&label=https%3A%2F%2Fgamercreator1.tk&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fgamercreator1.tk"></a>
+<a href="https://gamercreator1.tk" target="blank"><img alt="https://gamercreator1.tk" src="https://img.shields.io/website?down_color=red&down_message=offline&label=https%3A%2F%2Fgamercreator1.tk&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fgamercreator1.tk"></a>
 <br>
-<a href="https://pic.fordiscord.xyz" target="blank"><img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=offline&label=https%3A%2F%2Fpic.fordiscord.xyz%20&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fpic.fordiscord.xyz%2F"></a>
+<a href="https://pic.fordiscord.xyz" target="blank"><img alt="https://pic.fordiscord.xyz" src="https://img.shields.io/website?down_color=red&down_message=offline&label=https%3A%2F%2Fpic.fordiscord.xyz%20&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fpic.fordiscord.xyz%2F"></a>
